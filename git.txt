@@ -1,3 +1,0 @@
-Ikigai Exam
-
-<script src="https://kit.fontawesome.com/21c98d54fb.js" crossorigin="anonymous"></script>
